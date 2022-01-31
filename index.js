@@ -16,6 +16,11 @@ client.on("message", (message) => {
     if (message.content === "ping") {
         message.channel.send("pong");
     }
+
+    if (message.content === "tomar no seu cu") {
+        message.channel.send("vai você seu fdp");
+    }
+
 })
 
 client.login(process.env.TOKEN_DA_MASSA);
