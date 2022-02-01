@@ -24,7 +24,31 @@ const frases = [
     'devemos deixar de ser egoístas e começar a pensar em nós mesmos',
     'antes de você... esculhambar... deixa eu falar duas outras coisas que eu gostaria de colocar aí pra toda família...',
     'ô Lineu, você acha que eu ia deixar você numa fria rapaz?',
-    'seu Floriano... o senhor tem... 100 reais pra me emprestar??'
+    'seu Floriano... o senhor tem... 100 reais pra me emprestar??',
+    'devemos deixar de ser egoístas e começar a pensar em nós mesmos',
+    'o responsável é o PM, que ao invés de estar policiando, estava aqui, dentro da casa de sua mãe, paquerando a minha mulher',
+    'tu não vê vaca dizer "ó o leite vai durar até tal dia"',
+    'é assim, Maria Isabel, o dinheiro faz muita loucura com a cabeça de uma pessoa normal, imagine o que que não vai fazer com a cabeça de uma pessoa como o Tuco',
+    'pra rico tempo eh dinheiro né, ou melhor.. tempo é money pq eles pensa tudo em dolar',
+    'eu prometo... criar a sociedade... a amparar... o pobre e formatar leis!!',
+    'bebel, não vou falar grosso com voce, entao vou falar fino:ᶜᵒʳᵗᵃ ᵐᵉᵘ ᶜᵃᵇᵉˡᵒ?',
+    'já chega a carga tributária que o pequeno empresario tem que arcar aqui',
+    'lineu.... é uma PA RA DA que nós vamos ganhar uma BA BA',
+    'já tirou a janta? vou ali matar uma pessoa e já volto',
+    'meu sogro aqui que é sangue do meu sangue',
+    'EU? isso é calunia sua eu nunca fiz isso',
+    'a solidão da pessoa que chegou lá, que obteve o que ela queria, é muito grande ',
+    'olha, Lineu, oportunidade não bate duas vezes na mesma porta. confia em mim!',
+    'é... é muito simples... voce entra como entrada. ta aí voce arruma duas pessoas essa pessoas entra como entrada e você vira salada as pessoas arrumam outras duas pessoas você vira prato principal',
+    'Lineu eu já fiz tudo, ta na hora de você fazer alguma coisa',
+    'errar é humano, colocar a culpa em alguém é estratégico',
+    'como é que pegou fogo no quarto do tuco e seu floriano, se geralmente o lugar que PEGA FOGO é onde temos o quarto meu e da bebel?',
+    'eu acredito em um amanhã melhor, até porque amanhã é sexta-feira',
+    'dona nenê ta tudo armado ta tudo tranquilo a senhora tá na cara do gol... é só chutar. fica tranquila',
+    'eu tambem to muito orgulhosa Maria Izabel',
+    'quem manda eu querer o melhor pra minha esposa, que NO CASO é sua filha',
+    'Lineu você está insinuando que eu me aproveito de você?',
+    'trambolho? ô beiçola que trambolho o meu carro tem um pouco de idade aí mas ta bom tem que fazer uma coisinha ou outra aí mas ta melhor que muito carro de muita gente que anda aí na praça'
 
 ]
 
