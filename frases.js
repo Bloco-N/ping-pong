@@ -48,7 +48,8 @@ const frases = [
     'eu tambem to muito orgulhosa Maria Izabel',
     'quem manda eu querer o melhor pra minha esposa, que NO CASO é sua filha',
     'Lineu você está insinuando que eu me aproveito de você?',
-    'trambolho? ô beiçola que trambolho o meu carro tem um pouco de idade aí mas ta bom tem que fazer uma coisinha ou outra aí mas ta melhor que muito carro de muita gente que anda aí na praça'
+    'trambolho? ô beiçola que trambolho o meu carro tem um pouco de idade aí mas ta bom tem que fazer uma coisinha ou outra aí mas ta melhor que muito carro de muita gente que anda aí na praça',
+    'Eu não vou mais submeter a minha pessoa a essa humilhação de fazer uma prova com questões que a pessoa não tem como saber a resposta. Eu não quero mais! '
 
 ]
 
